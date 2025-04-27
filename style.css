@@ -119,12 +119,14 @@ span{
     border: 2px solid black;
     height: 400px;
     width: 25%;
+    
     background-color: white;
     margin: 15px;
 }
 .box1{
     background-image: url(box_1.jpg);
     background-size: cover;
+    background-color: #0f1111;
 }
 .box2{
     background-image: url(box_2.jpg);
@@ -170,6 +172,7 @@ footer{
 .foot-panel2{
     background-color: #222f3d;
     color: white;
+
     height: 250px;
 }
 .foot-panel3{
@@ -201,7 +204,13 @@ footer{
     padding-top: 5px;
 }
 
-
+.am{
+    text-decoration: solid;
+    font-weight: bolder;
+    font-size: xx-large ;
+    color: #febd68;
+    margin-top: 10px;
+}
 
 
 
